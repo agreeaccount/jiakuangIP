@@ -37,10 +37,10 @@ proxies:
   udp: true
 - name: 🇸🇪 SE 04 - xiaohe
   type: ss
-  server: 194.59.250.52
-  port: 18501
-  cipher: aes-128-gcm
-  password: 517403753b63fd4fac88986bf98b11e0
+  server: 62.182.193.228
+  port: 8388
+  cipher: chacha20-ietf-poly1305
+  password: 2e555e46dbc421452416834962fd014f
   udp: true
 - name: 🇸🇪 SE 05 - xiaohe
   type: ss
